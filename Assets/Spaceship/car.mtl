@@ -1,0 +1,34 @@
+# MTL
+
+newmtl Layer_3_mtl
+	map_Kd car_Layer_3.png
+
+
+newmtl Layer_1_mtl
+	map_Kd car_Layer_1.png
+
+
+newmtl Layer_4_mtl
+	map_Kd car_Layer_4.png
+
+
+newmtl default_mtl
+	map_Kd car_default.png
+
+
+newmtl Layer_2_mtl
+	map_Kd car_Layer_2.png
+
+
+newmtl Layer_6_mtl
+	map_Kd car_Layer_6.png
+
+
+newmtl Layer_5_mtl
+	map_Kd car_Layer_5.png
+
+
+newmtl Layer_7_mtl
+	map_Kd car_Layer_7.png
+
+
