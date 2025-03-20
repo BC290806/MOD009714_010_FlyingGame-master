@@ -27,7 +27,7 @@ public class Timer : MonoBehaviour
         if (currentTime <= 0)
         {
             currentTime = 0;
-            SceneManager.LoadScene("Main Menu");
+            SceneManager.LoadScene("GameOverMenu");
         }
     }
 }
